@@ -1,6 +1,8 @@
 # final_project
 
-A new Flutter project.
+A new Flutter project. [Figma](https://www.figma.com/design/tm9dHf9wMgmrV016zGa5Rd/Final-Project-SIB?node-id=0%3A1&t=5Fp0V47AxceHXaKs-1)
+
+design and prototype : 
 
 ## Getting Started
 
